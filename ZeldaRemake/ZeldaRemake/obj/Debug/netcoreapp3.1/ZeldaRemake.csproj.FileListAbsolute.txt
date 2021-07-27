@@ -1,0 +1,17 @@
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\bin\Debug\netcoreapp3.1\ZeldaRemake.exe
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\bin\Debug\netcoreapp3.1\ZeldaRemake.deps.json
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\bin\Debug\netcoreapp3.1\ZeldaRemake.runtimeconfig.json
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\bin\Debug\netcoreapp3.1\ZeldaRemake.runtimeconfig.dev.json
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\bin\Debug\netcoreapp3.1\ZeldaRemake.dll
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\bin\Debug\netcoreapp3.1\ZeldaRemake.pdb
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\obj\Debug\netcoreapp3.1\ZeldaRemake.csproj.AssemblyReference.cache
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\obj\Debug\netcoreapp3.1\ZeldaRemake.AssemblyInfoInputs.cache
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\obj\Debug\netcoreapp3.1\ZeldaRemake.AssemblyInfo.cs
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\obj\Debug\netcoreapp3.1\ZeldaRemake.csproj.CoreCompileInputs.cache
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\obj\Debug\netcoreapp3.1\ZeldaRemake.dll
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\obj\Debug\netcoreapp3.1\ZeldaRemake.pdb
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\obj\Debug\netcoreapp3.1\ZeldaRemake.genruntimeconfig.cache
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\obj\Debug\netcoreapp3.1\ZeldaRemake.Form1.resources
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\obj\Debug\netcoreapp3.1\ZeldaRemake.csproj.GenerateResource.cache
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\obj\Debug\netcoreapp3.1\ZeldaRemake.Properties.Resources.resources
+D:\Programs\VS workspace\ZeldaRemake\ZeldaRemake\obj\Debug\netcoreapp3.1\ZeldaRemake.Lv1.resources
